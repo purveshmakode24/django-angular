@@ -9,7 +9,7 @@ ng build --prod --watch --output-hashing none
 
 ### Run app
 ```
-python mange.py runserver
+python manage.py runserver
 ```
 
 > Only need to deploy django server app for production
